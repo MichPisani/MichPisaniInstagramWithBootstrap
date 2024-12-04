@@ -1,0 +1,11 @@
+/* Eliminando estilos predeterminados */
+.styleButton{
+    background-color: white;
+    border-width: 0px;
+}
+/* Añadiendo estilos */
+
+.card{
+    margin: auto;
+    margin-bottom: 2rem;
+}
