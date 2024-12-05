@@ -4,7 +4,12 @@
     border-width: 0px;
 }
 /* Añadiendo estilos */
-
+.nav-link i{
+    color: grey;
+}
+.nav-link.active i{
+    color: blue;
+}
 .card{
     margin: auto;
     margin-bottom: 2rem;
